@@ -1,9 +1,5 @@
         /* HERO MOBILE */
 
-         .section-hero {
-           padding-top: 60px;
-           padding-bottom: 60px;
-         }
     
          .hero-wrap{
             margin-bottom: 28px;
@@ -64,6 +60,7 @@
          
          .hero-description{
             display: flex;
+            align-items: center;
             flex-wrap: wrap;
             gap: 40px 11px;
          }
